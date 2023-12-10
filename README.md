@@ -1,1 +1,1 @@
-# .NET Project Templates in Shell Script
+# .NET Project Templates with Shell Script
