@@ -1,2 +1,1 @@
-# dotnet_project-templates_sh
-.NET Project Templates in Shell Script
+# .NET Project Templates in Shell Script
